@@ -1,0 +1,12 @@
+@import url('https://fonts.googleapis.com/css2?family=Arbutus+Slab&family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap');
+@import "tailwindcss";
+
+@theme{
+    --color-primary:#FFE7E7;
+    --color-secondary:#FFF8F8;
+    --color-title:linear-gradient(to right,#81008C 0%,#540096 100%);
+    --font-primary:"Montserrat", sans-serif;
+    --font-secondary:" "Arbutus Slab", serif";
+}
+
+
